@@ -1,7 +1,7 @@
 #  React Repo
 https://github.com/JudyMotha/portfolio-gh-pages
 
-# GH pages published at(since there is no backend)
+# GH pages published *at(since there is no backend)
 https://judymotha.github.io/portfolio-gh-pages/
 
  # Visual
