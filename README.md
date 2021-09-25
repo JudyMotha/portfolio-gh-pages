@@ -1,6 +1,6 @@
-#  PortfolioHW Repo
+#  ReactPortfolioH Repo
 https://judymotha.github.io/portfolio-gh-pages/
-#  Site is published at
+# GH pages published at
 https://judymotha.github.io/portfolio-gh-pages/
 * Still got to fix a few functionalities-the HW  was perfect on local m/c with footer tabs GH and Linkedin function but moved to 404 on GH pages . Debugged code with help of various google forums..Module not found and more 
 * Resolved deployment issues with :Referred https://github.com/gitname/react-gh-pages).(deploy master and then run npm run deploy to git master sourcecode  as default page )
