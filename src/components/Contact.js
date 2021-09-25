@@ -39,7 +39,7 @@ class Contact extends React.Component {
           </form>
         </div>
         <div className="col-md-12 text-center">Email:judiesub99@gmail.com</div>
-          <div className="col-md-12 text-center">Call:judiesub99@gmail.com</div>  
+          <div className="col-md-12 text-center">Cell: 614-655-1325</div>  
           </main>        
               
         )
