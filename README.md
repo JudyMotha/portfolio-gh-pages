@@ -5,8 +5,8 @@ https://judymotha.github.io/portfolio-gh-pages/
 * The work has a simple landing page with Aboutme Home tab  ,project/portfolio tab ,contcat tab and Resume tab.The portfolio page contains a few repo and published sites.
 * Still got to fix a few functionalities-the HW  was perfect on local m/c with Social Contact tabs (LI,GH,resume but moved to 404 on GH pages). 
 
-* Resolved deployment issues with README from  : https://github.com/gitname/react-gh-pages).(deploy master and then run npm run deploy to git master sourcecode  as default page and not as mentioned)
-* Used the foll. google to read  on react router
+* Resolved deployment issues with README from  : https://github.com/gitname/react-gh-pages).(deploy master and then run npm run deploy to git master sourcecode  as default page and not as mentioned).I have 2 versions in my GHaccount  one with master as default which will be provided for HW and the other that has GH pages as default .
+* Used the below sites  to read  on react router
 * https://codesandbox.io/s/react-router-usehistory-q85di?from-embed
 * https://www.freecodecamp.org/news/a-complete-beginners-guide-to-react-router-include-router-hooks/
 * https://www.sitepoint.com/react-router-complete-guide/
