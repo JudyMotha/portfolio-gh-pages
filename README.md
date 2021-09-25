@@ -12,7 +12,7 @@ https://judymotha.github.io/portfolio-gh-pages/
 
 Thanks to my tutor Alexis for helping me with my first react HW.
 
- #Visual
+ # Visual
  <img src="./reactpffinale.gif">
 
 
