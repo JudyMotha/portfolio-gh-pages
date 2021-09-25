@@ -3,7 +3,7 @@ https://judymotha.github.io/portfolio-gh-pages/
 #  Site is published at
 https://judymotha.github.io/portfolio-gh-pages/
 * Still got to fix a few functionalities-the HW  was perfect on local m/c with footer tabs GH and Linkedin function but moved to 404 on GH pages . Debugged code with help of various google forums..Module not found and more 
-* (Referred https://github.com/gitname/react-gh-pages).(deploy master and then run npm run deploy)
+* Resolved deployment issues with :Referred https://github.com/gitname/react-gh-pages).(deploy master and then run npm run deploy to git master sourcecode  as default page )
 * Lot of search on google and various forums on how to go about on react router
 * https://codesandbox.io/s/react-router-usehistory-q85di?from-embed
 * https://www.freecodecamp.org/news/a-complete-beginners-guide-to-react-router-include-router-hooks/
