@@ -1,9 +1,9 @@
-#  PortfolioHW Deployed Repo
+#  PortfolioHW Repo
 https://judymotha.github.io/portfolio-gh-pages/
 #  Site is published at
 https://judymotha.github.io/portfolio-gh-pages/
 * Still got to fix a few functionalities-the app was perfect on local m/c and did not give the same result when deployed thru GHpages .Had too much deployment  issues for this Hw inspite of deploying a sample app earlier
-* (Referred https://github.com/gitname/react-gh-pages).
+* (Referred https://github.com/gitname/react-gh-pages).(deploy master and then run npm run deploy
 * Lot of search on google and various forums on how to go about on react router
 * https://codesandbox.io/s/react-router-usehistory-q85di?from-embed
 * https://www.freecodecamp.org/news/a-complete-beginners-guide-to-react-router-include-router-hooks/
