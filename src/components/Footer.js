@@ -8,7 +8,7 @@ function Footer() {
      
     <a className="submit-btn"  href="https://www.linkedin.com/in/judy-xm-47808921a/">Linkedin </a>
     <a className="submit-btn" href="https://github.com/JudyMotha" >GitHub</a>
-    
+    <a className="submit-btn" href= "https://stackoverflow.com/users/15624822/judy-flowers">Stack Overflow</a>
     </p>  
                   
                 
