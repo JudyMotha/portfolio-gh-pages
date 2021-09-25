@@ -42,6 +42,7 @@ class Contact extends React.Component {
           <div className="col-md-12 text-center">Cell: 614-655-1325</div>  
           </main>        
               
+            
         )
             }
 }
