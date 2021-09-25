@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio-gh-pages/static/css/main.c00c8f17.chunk.css",
+    "main.js": "/portfolio-gh-pages/static/js/main.4f82e83e.chunk.js",
+    "main.js.map": "/portfolio-gh-pages/static/js/main.4f82e83e.chunk.js.map",
+    "runtime-main.js": "/portfolio-gh-pages/static/js/runtime-main.f465a386.js",
+    "runtime-main.js.map": "/portfolio-gh-pages/static/js/runtime-main.f465a386.js.map",
+    "static/css/2.f2512455.chunk.css": "/portfolio-gh-pages/static/css/2.f2512455.chunk.css",
+    "static/js/2.a448c4de.chunk.js": "/portfolio-gh-pages/static/js/2.a448c4de.chunk.js",
+    "static/js/2.a448c4de.chunk.js.map": "/portfolio-gh-pages/static/js/2.a448c4de.chunk.js.map",
+    "index.html": "/portfolio-gh-pages/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/portfolio-gh-pages/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.c00c8f17.chunk.css.map": "/portfolio-gh-pages/static/css/main.c00c8f17.chunk.css.map",
+    "static/js/2.a448c4de.chunk.js.LICENSE.txt": "/portfolio-gh-pages/static/js/2.a448c4de.chunk.js.LICENSE.txt",
+    "static/media/Resume.41a9ad75.pdf": "/portfolio-gh-pages/static/media/Resume.41a9ad75.pdf",
+    "static/media/kelly-sikkema-377gw1wN0Ic-unsplash.73f6fd51.jpg": "/portfolio-gh-pages/static/media/kelly-sikkema-377gw1wN0Ic-unsplash.73f6fd51.jpg",
+    "static/media/marek-piwnicki-2jjzyoLfpT4-unsplash.d31f21e7.jpg": "/portfolio-gh-pages/static/media/marek-piwnicki-2jjzyoLfpT4-unsplash.d31f21e7.jpg",
+    "static/media/mykola-makhlai-hVfhVn15Lbg-unsplash.99cdb703.jpg": "/portfolio-gh-pages/static/media/mykola-makhlai-hVfhVn15Lbg-unsplash.99cdb703.jpg",
+    "static/media/mypict.1ae7572c.jpg": "/portfolio-gh-pages/static/media/mypict.1ae7572c.jpg",
+    "static/media/ryan-geller-9mGSc18MV3s-unsplash.308c0692.jpg": "/portfolio-gh-pages/static/media/ryan-geller-9mGSc18MV3s-unsplash.308c0692.jpg",
+    "static/media/sincerely-media-XihOO7UOvy4-unsplash.a2f86e45.jpg": "/portfolio-gh-pages/static/media/sincerely-media-XihOO7UOvy4-unsplash.a2f86e45.jpg",
+    "static/media/ux-indonesia-w00FkE6e8zE-unsplash.8ff57cd6.jpg": "/portfolio-gh-pages/static/media/ux-indonesia-w00FkE6e8zE-unsplash.8ff57cd6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f465a386.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.a448c4de.chunk.js",
+    "static/css/main.c00c8f17.chunk.css",
+    "static/js/main.4f82e83e.chunk.js"
+  ]
+}
