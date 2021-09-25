@@ -2,7 +2,9 @@
 https://judymotha.github.io/portfolio-gh-pages/
 # GH pages published at
 https://judymotha.github.io/portfolio-gh-pages/
-* Still got to fix a few functionalities-the HW  was perfect on local m/c with footer tabs GH and Linkedin function but moved to 404 on GH pages . Debugged code with help of various google forums..Module not found and more 
+The work has a simple landing page ,project/portfolio page ,contcat page and Resume tab.The app moves back and forth between pages and ypu can view GH repos and published sites.
+* Still got to fix a few functionalities-the HW  was perfect on local m/c with Social Contact tabs (LI,GH,resume but moved to 404 on GH pages). 
+
 * Resolved deployment issues with :Referred https://github.com/gitname/react-gh-pages).(deploy master and then run npm run deploy to git master sourcecode  as default page )
 * Lot of search on google and various forums on how to go about on react router
 * https://codesandbox.io/s/react-router-usehistory-q85di?from-embed
