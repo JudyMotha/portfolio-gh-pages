@@ -3,7 +3,7 @@ https://judymotha.github.io/portfolio-gh-pages/
 # GH pages published at(since there is no backend)
 https://judymotha.github.io/portfolio-gh-pages/
 * The work has a simple landing page with Aboutme Home tab  ,project/portfolio tab ,contcat tab and Resume tab.The portfolio page contains a few repo and published sites.
-* Quite challenging with a first of a HW with React
+* Quite challenging with a first of a HW with React with code and styling changes
 * Resolved deployment issues with README from  : https://github.com/gitname/react-gh-pages).(deploy master and then run npm run deploy to git master sourcecode  as default page and not as mentioned).I have 2 versions in my GHaccount  one with master as default which will be provided for HW and the other that has GH pages as default .
 * Used the below sites  to read  on react router
 * https://codesandbox.io/s/react-router-usehistory-q85di?from-embed
