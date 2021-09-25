@@ -40,7 +40,7 @@ class Contact extends React.Component {
         </div>
         <div className="col-md-12 text-center">Email:judiesub99@gmail.com</div>
           <div className="col-md-12 text-center">Call:judiesub99@gmail.com</div>  
-          </main>          
+          </main>        
               
         )
             }
