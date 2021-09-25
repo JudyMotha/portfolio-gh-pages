@@ -1,4 +1,5 @@
 * PortfolioHW Deployed pages https://judymotha.github.io/portfolio-gh-pages/
+* site is published at https://judymotha.github.io/portfolio-gh-pages/
 
 
 
