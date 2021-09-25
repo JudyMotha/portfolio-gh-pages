@@ -2,7 +2,7 @@
 https://judymotha.github.io/portfolio-gh-pages/
 # GH pages published at
 https://judymotha.github.io/portfolio-gh-pages/
-The work has a simple landing page with Aboutme Home tab  ,project/portfolio tab ,contcat tab and Resume tab.The portfolio page contains a few rep and published sites.
+* The work has a simple landing page with Aboutme Home tab  ,project/portfolio tab ,contcat tab and Resume tab.The portfolio page contains a few repo and published sites.
 * Still got to fix a few functionalities-the HW  was perfect on local m/c with Social Contact tabs (LI,GH,resume but moved to 404 on GH pages). 
 
 * Resolved deployment issues with README from  : https://github.com/gitname/react-gh-pages).(deploy master and then run npm run deploy to git master sourcecode  as default page and not as mentioned)
