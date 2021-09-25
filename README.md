@@ -1,6 +1,6 @@
 #  React Repo
 https://judymotha.github.io/portfolio-gh-pages/
-# GH pages published at
+# GH pages published at(since there is no backend)
 https://judymotha.github.io/portfolio-gh-pages/
 * The work has a simple landing page with Aboutme Home tab  ,project/portfolio tab ,contcat tab and Resume tab.The portfolio page contains a few repo and published sites.
 * Quite challenging with a first of a HW with React
