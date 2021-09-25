@@ -1,6 +1,6 @@
 * PortfolioHW Deployed pages https://judymotha.github.io/portfolio-gh-pages/
 * Site is published at https://judymotha.github.io/portfolio-gh-pages/
-* Still got to fix a few functionalities;Had deployment issues for this Hw inspite of deploying a sample app earlier
+* Still got to fix a few functionalities-the app work diff on local m/c and did not give the same result when deployed thru GHpages .Had too much deployment  issues for this Hw inspite of deploying a sample app earlier
 * (Referred https://github.com/gitname/react-gh-pages).
 * Lot of search on google and various forums on how to go about on react router
 * https://codesandbox.io/s/react-router-usehistory-q85di?from-embed
