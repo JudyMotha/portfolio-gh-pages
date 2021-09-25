@@ -5,7 +5,7 @@ https://github.com/JudyMotha/portfolio-gh-pages
 https://judymotha.github.io/portfolio-gh-pages/
 
  # Visual
- <img src="./reactpffinale.gif">
+ <img src="./reactghpages.gif">
 
 * The work has a simple landing page with Aboutme Home tab  ,project/portfolio tab ,contcat tab and Resume tab.The portfolio page contains a few repo and published sites.
 * Quite challenging with a first of a HW with React with code and styling changes.Still needs a few fixes.Noticed a few glitches between HW performance on local m/c vs GH pages which got resolved overtime.
